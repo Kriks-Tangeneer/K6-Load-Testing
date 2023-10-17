@@ -1,0 +1,2661 @@
+[
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "98.99",
+    "promoPrice": "98.99",
+    "productUId": 11559,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP UHT Full Cream Milk 6 x 1L ",
+    "description": "UHT Full Cream Milk.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-349246-6001007164294.jpg",
+    "top_picks": "Y",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "98.99",
+    "promoPrice": "98.99",
+    "productUId": 11561,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP UHT Low Fat Milk 6 x 1L",
+    "description": "UHT Low Fat Milk",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-349244-6001007164300.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "103.99",
+    "promoPrice": "103.99",
+    "productUId": 19552,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Faircape",
+    "label": "Fair Cape Ecofresh UHT Full Cream Milk 1L 6 Pack",
+    "description": "Milk contains health-giving vitamins and minerals. We are passionate about delivering pure quality milk to our customers - naturally fresh every day.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-702469-6007414004451.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "122.99",
+    "promoPrice": "122.99",
+    "productUId": 11685,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover UHT Long Life Full Cream Milk 6 Pack",
+    "description": "Clover Fresh milk is the number 1 milk brand in South Africa. When you buy Clover milk, you can be sure that you are getting high quality and freshness.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-538315-6001299015205.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "Y",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "34.99",
+    "promoPrice": "29.99",
+    "productUId": 4176,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Fresh Full Cream Milk 2L",
+    "description": "Enjoy the delicious taste of our Full Cream Fresh Milk in your coffee and tea, on your cereal, or as a glass on its own. Its been pasteurised and homogenised to meet food safety standards.",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-357781-6001007162474.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "14.99",
+    "promoPrice": "14.99",
+    "productUId": 12815,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Full Cream Milk Sachet 1L",
+    "description": "Enjoy the delicious taste of our Full Cream Fresh Milk in your coffee and tea, on your cereal, or as a glass on its own. Its been pasteurised and homogenised to meet food safety standards.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-441655-6001007217228.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "16.99",
+    "promoPrice": "16.99",
+    "productUId": 4218,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP UHT Full Cream Milk 1L",
+    "description": "Make sure you always have milk on hand with our Live Well Long Life Full Cream Milk, which now comes in new plant-based packaging partly made from sugar cane. ",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-349246-6001007041052.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "35.99",
+    "promoPrice": "35.99",
+    "productUId": 4177,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Full Cream Fresh Milk 2L",
+    "description": "Full cream fresh milk.Our fresh milk is now way better than before.Our fresh milk now stays fresh for up to 18 days unopened from when its packed. Why? We use bactofugation, which is an innovative process that spins the milk to separate and remove more bacteria than pasteurisation alone. Our milk is",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-203686-6001299000270.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "122.99",
+    "promoPrice": "122.99",
+    "productUId": 11650,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover UHT Low Fat Milk  6 x 1L",
+    "description": "Way better taste of clover milk.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-538313-6001299015212.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "122.49",
+    "promoPrice": "122.49",
+    "productUId": 19551,
+    "maxOrderQuantity": 10,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Everfresh UHT Full Cream Milk 1L 6 Pack",
+    "description": "With its easy-to-grip slim shape, easy-opening twist cap and easy-pouring angled top, Everfresh UHT Full Cream Milk from Parmalat can now be more easily enjoyed by the whole family. ",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-190093-6002100140598.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "Y",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "37.99",
+    "promoPrice": "37.99",
+    "productUId": 15323,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Full Cream Ultra Pasteurised Milk 2L",
+    "description": "Never run out of milk again thanks to our ultra-pasteurised Full Cream Milk that stays fresh for up to 35 days unopened.",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-561818-6001007275273.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "34.99",
+    "promoPrice": "34.99",
+    "productUId": 9028,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Faircape",
+    "label": "Fair Cape Ecofresh Full Cream Milk 2L",
+    "description": "Fair Cape Ecofresh Full Cream Milk. Pure wholesome nutrition in a bottle. Our happy productive cows are reflected in our EcoFresh Full Cream milk straight from the dairy to you.",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-529288-6007414003263.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "35.99",
+    "promoPrice": "35.99",
+    "productUId": 7660,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Low Fat Milk 2L",
+    "description": "Low fat fresh milk.Our fresh milk now stays fresh for up to 18 days unopened from when its packed. Why? We use bactofugation, which is an innovative process that spins the milk to separate and remove more bacteria than pasteurisation alone. Our milk is kept chilled below 4 degrees C and finally fill",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-231721-6001299000621.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "103.99",
+    "promoPrice": "103.99",
+    "productUId": 19553,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Faircape",
+    "label": "Fair Cape Ecofresh UHT Low Fat Milk 1L 6 Pack",
+    "description": "Milk contains health-giving vitamins and minerals. We are passionate about delivering pure quality milk to our customers - naturally fresh every day",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-702470-6007414004468.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "34.99",
+    "promoPrice": "29.99",
+    "productUId": 22504,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Low Fat Fresh Milk 2L",
+    "description": "Enjoy the delicious taste of our Live Well Low Fat Fresh Milk in your coffee and tea, on your cereal, or as a glass on its own. Its been pasteurised and homogenised to meet food safety standards.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-357838-6001007162504.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "35.99",
+    "promoPrice": "35.99",
+    "productUId": 9250,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Full Cream Ultra Pasteurised Milk 2L",
+    "description": "When you buy Clover milk, you can be sure that you are getting high quality and freshness because we perform 55 quality tests on every litre of our milk. \n",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-555462-6001299016158.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "19.99",
+    "promoPrice": "19.99",
+    "productUId": 9122,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Full Cream Fresh Milk 1L",
+    "description": "Enjoy the delicious taste of our Full Cream Fresh Milk in your coffee and tea, on your cereal, or as a glass on its own. Its been pasteurised and homogenised to meet food safety standards.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-357779-6001007162467.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "132.99",
+    "promoPrice": "132.99",
+    "productUId": 19542,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover UHT Nolac Lactose Free Milk 1L 6 Pack",
+    "description": "Clover Nolac is pre-treated with the enzyme lactase to break down lactose, making it easier to digest for the lactose intolerant person.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-716749-6001299006814.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "14.49",
+    "promoPrice": "14.49",
+    "productUId": 19546,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Ultra UHT Full Cream Milk 500ml",
+    "description": "The quality and goodness of Ultra Long Life Full Cream milk is kept fresh for longer.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-188938-6001299026881.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "13.99",
+    "promoPrice": "13.99",
+    "productUId": 22266,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Everfresh UHT Full Cream Milk 500ml",
+    "description": "Expect more from your milk with Parmalat Everfresh. A dairy milk range with added vitamin D for better calcium absorption that always delivers quality in new and innovative ways.",
+    "sellingUnit": "500ml",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-120969-6001049066013.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "16.99",
+    "promoPrice": "16.99",
+    "productUId": 4220,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP UHT Low Fat Milk 1L",
+    "description": "Make sure you always have milk on hand with our Live Well Long Life Low Fat Milk, which now comes in new plant-based packaging partly made from sugar cane. ",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-349244-6001007041045.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "17.99",
+    "promoPrice": "17.99",
+    "productUId": 9033,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Fair Cape Dairies (Pty) Ltd",
+    "label": "Fair Cape Ecofresh UHT Full Cream Milk 1L",
+    "description": "Fair Cape Full Cream Long Life Milk packed with health and nutrition. Our superior long life milk is packed with nutrients forÂ extra staying power.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-702469-6007414004376.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "35.99",
+    "promoPrice": "35.99",
+    "productUId": 8339,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Ultra Pasteurised Low Fat Milk 2L",
+    "description": "Clover Low Fat Fresh Milk has a low butterfat level, which means that it only contains 60% of the fat of full cream milk.",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-555461-6001299016110.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "12.49",
+    "promoPrice": "12.49",
+    "productUId": 19935,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Sealfresh Full Cream Fresh Milk 250ml",
+    "description": "Clover fresh milk is the number 1 milk brand in South Africa. When you buy Clover milk, you can be sure that you are getting high quality and freshness.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-146285-6001299025419.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 8639,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Blue Diamond",
+    "label": "Almond Breeze Unsweetened Milk 1L",
+    "description": "Our delicious unsweetened Almond  Breeze Unsweetened Milk, created specially for coffee lovers, baristas and coffee shops, complements the taste of coffee and produces a rich, creamy froth to sit atop lattes, cappuccinos and flat whites.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-679915-0041570112625.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "34.99",
+    "promoPrice": "34.99",
+    "productUId": 9042,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Faircape",
+    "label": "Fair Cape Ecofresh Low Fat Milk 2L",
+    "description": "Fair Cape Ecofresh Low Fat Milk. Low in fat, high in taste, uncompromising in quality. Our low fat milk is 100% pure EcoFresh packed with nutrients straight from our dairy to your doorstep.",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-529287-6007414003270.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "22.99",
+    "promoPrice": "22.99",
+    "productUId": 9175,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Seal Full Cream Fresh Milk 1L",
+    "description": "Clover fresh milk is the number 1 milk brand in South Africa. When you buy Clover milk, you can be sure that you are getting high quality and freshness.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-247704-6001299025402.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "122.49",
+    "promoPrice": "122.49",
+    "productUId": 33498,
+    "maxOrderQuantity": 10,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat ",
+    "label": "Parmalat Everfresh Fat Free Long Life UHT Milk 1L",
+    "description": "Parmalat Everfresh is formulated with added vitamin D for better calcium absorption to develop strong bones and keep them strong.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-201838-6002100140734.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "79.99",
+    "promoPrice": "79.99",
+    "productUId": 9838,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Klim Full Cream Milk Powdered Sachet 500g",
+    "description": "Full cream instant milk powder. An all family milk for your drinking, cooking and baking needs.",
+    "sellingUnit": "500g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Hot Drinks, Creamers and Milk Powders",
+    "catalogueMenuUId": 2340,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-253027-6001068708802.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "122.49",
+    "promoPrice": "122.49",
+    "productUId": 19550,
+    "maxOrderQuantity": 10,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Everfresh UHT Low Fat Milk 1L 6 Pack",
+    "description": "Expect more from your milk with Parmalat Everfresh.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-237561-6002100140666.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "Y",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "20.99",
+    "promoPrice": "20.99",
+    "productUId": 15320,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Woodlands Dairy",
+    "label": "First Choice UHT Full Cream Milk 1L",
+    "description": "Our delicious milk and dairy products are farm fresh and filled with natural goodness that is mainly sourced from pasture-fed cows.",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/front-126100-6007251000012.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "36.99",
+    "promoPrice": "36.99",
+    "productUId": 7670,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Double Cream Plain Yoghurt 1kg",
+    "description": "The best and tastiest way to promote good gut health is by eating our probiotic-rich Double Cream Plain Yoghurt made with live yoghurt cultures. ",
+    "sellingUnit": "1kg",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Yoghurt",
+    "catalogueMenuUId": 499,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-157183-6001007304201.jpg",
+    "top_picks": "Y",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "54.99",
+    "promoPrice": "42.99",
+    "productUId": 11556,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Unilever",
+    "label": "Stork 40% Fat Country Spread 1kg",
+    "description": "Full of delicious flavour and designed specifically for baking ensuring the fluffiest cakes, the tastiest scones, and the crunchiest biscuits.",
+    "sellingUnit": "1Kg",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-103448-6009710390177.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "124.99",
+    "promoPrice": "124.99",
+    "productUId": 27347,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Lancewood",
+    "label": "Lancewood Cheddar Cheese 600g",
+    "description": "Lancewood cheddar is always a favourite in South African households. It has a creamy and nutty flavour and is enjoyed as is, for a snack, or to add flavour to meals, and a favourite on childrens sandwiches.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cheese",
+    "catalogueMenuUId": 874,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-786428-6009617222786.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "5": "VITALITY"
+      }
+    ],
+    "price": "20.99",
+    "promoPrice": "20.99",
+    "productUId": 33503,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat ",
+    "label": "Parmalat Everfresh Fat Free Long Life UHT Milk 1L",
+    "description": "Expect more from your milk with Parmalat Everfresh.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-201838-6002100014028.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "21.00",
+    "promoPrice": "20.49",
+    "productUId": 9098,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Faircape",
+    "label": "Fair Cape Ecofresh Full Cream Milk 1L",
+    "description": "Faircape Ecofresh Full Cream Milk. Pure wholesome nutrition in a bottle. Our happy productive cows are reflected in our EcoFresh Full Cream milk straight from the dairy to you.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-529285-6007414003294.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "33.99",
+    "promoPrice": "33.99",
+    "productUId": 7604,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover SA (Pty) Ltd - Groceries",
+    "label": "Clover Full Cream Condensed Milk 385g",
+    "description": "Clover Full Cream sweetened Condensed Milk is prepared from cows milk and pure refined sugar. It brings confectionery to life and is available in an easy to open tin.",
+    "sellingUnit": "385g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baking and Flour",
+    "catalogueMenuUId": 463,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-412553-6001299012709.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "22.99",
+    "promoPrice": "22.99",
+    "productUId": 9602,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Nolac Lactose Free Fresh Milk 1L",
+    "description": "New Clover Nolac is pre treated with the enzyme lactose to break down lactose, making it easy to digest for the lactose intolerant person. This process also gives Clover Nolac a sweeter taste than regular milk, but without any added sugar!",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-716897-6001299006746.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "21.00",
+    "promoPrice": "20.49",
+    "productUId": 9165,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Faircape",
+    "label": "Fair Cape Ecofresh Low Fat Milk 1L",
+    "description": "Fair Cape Ecofresh Low Fat Milk Low in fat, high in taste, uncompromising in quality. Our low fat milk is 100% pure EcoFresh packed with nutrients straight from our dairy to your doorstep.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-529284-6007414003300.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "38.99",
+    "promoPrice": "38.99",
+    "productUId": 26315,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "BUTTANUTT",
+    "label": "ButtaNutt Macadamia Milk 1L",
+    "description": "A delightfully delicious and creamy South African oat milk. Made with simple ingredients, this malty milk is sure to become a daily staple.  Enjoy in soothing golden lattes or velvety flat whites. Pour over granola, use in smoothies or drink straight up.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-861956-6009900424361.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "22.99",
+    "promoPrice": "22.99",
+    "productUId": 9582,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Danone Nutriday Smooth Strawberry Granadilla and Apricot Yoghurt 6 Pack",
+    "description": "Danone Nutriday medium fat smooth yoghurt is ideal breakfast or lunch delight. Every spoonful is a creamy and delicious convenient snack for kids and adults, with a wonderful fresh dairy flavour.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Yoghurt",
+    "catalogueMenuUId": 499,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-246537-6009708461971.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "158.99",
+    "promoPrice": "158.99",
+    "productUId": 19567,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Medium Fat Growth Milk 1+ 1L 6 Pack",
+    "description": "Parmalat is known for its focus on quality and dairy innovations and its annual top performances at the prestigious SA Dairy Championships are testament to the companys delivery on this promise.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-633064-6001049058100.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "Y",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "69.99",
+    "promoPrice": "69.99",
+    "productUId": 17400,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Unilever",
+    "label": "Flora Regular 50% Fat Spread 1kg",
+    "description": "Flora Regular is the tasty, everyday spread that easily fits into a well-balanced heart-healthy diet, and can be used for spreading, cooking, frying and sauteing.",
+    "sellingUnit": "1Kg",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-348449-6009710390429.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "15.49",
+    "promoPrice": "15.49",
+    "productUId": 15322,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Fair Cape Dairies",
+    "label": "Fair Cape Full Cream Milk Sachet 1L",
+    "description": "Full cream milk.",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-397579-6007414000019.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "35.99",
+    "promoPrice": "35.99",
+    "productUId": 9325,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Nestle Full Cream Condensed Sweetened Milk 385g",
+    "description": "The thickest, creamiest condensed milk - for the most successful sweet treats!",
+    "sellingUnit": "385g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baking and Flour",
+    "catalogueMenuUId": 463,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-205195-6001068311804.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "164.99",
+    "promoPrice": "164.99",
+    "productUId": 13712,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Nestle Lactogen 3 Milk Powder 900g",
+    "description": "Milk powder for young children, from 12 Months onwards.\n",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baby Formula",
+    "catalogueMenuUId": 398,
+    "categoryLabel": "Baby",
+    "categoryMenuUid": 395,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-452679-6001068638307.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      },
+      {
+        "5": "VITALITY"
+      }
+    ],
+    "price": "49.99",
+    "promoPrice": "49.99",
+    "productUId": 9229,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Large Eggs 18s",
+    "description": "A kitchen staple, you can use our fresh-from-the-farm eggs for baking delicious treats and cooking some of your favourite meals.",
+    "sellingUnit": "18s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Eggs",
+    "catalogueMenuUId": 414,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-213995-6001007309480.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      },
+      {
+        "5": "VITALITY"
+      }
+    ],
+    "price": "84.99",
+    "promoPrice": "84.99",
+    "productUId": 4210,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Large Eggs 30s",
+    "description": "A kitchen staple, you can use our fresh-from-the-farm eggs for baking delicious treats and cooking some of your favourite meals.",
+    "sellingUnit": "30s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Eggs",
+    "catalogueMenuUId": 414,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/front-203520-6001007026899.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "11.99",
+    "promoPrice": "11.99",
+    "productUId": 11934,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Double Cream Lemon Meringue Yoghurt 175g",
+    "description": "Whether you enjoy our thick and creamy Double Cream Lemon Meringue Flavoured Yoghurt for breakfast, dessert or as an indulgent afternoon snack, you wont be disappointed.",
+    "sellingUnit": "175G",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Yoghurt",
+    "catalogueMenuUId": 499,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-380987-6001007174996.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "69.99",
+    "promoPrice": "69.99",
+    "productUId": 17399,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Unilever",
+    "label": "Flora Light 40% Fat Spread 1kg",
+    "description": "Flora Light is a lighter spread that easily fits into a well-balanced, heart-healthy diet, and is high in omega-3 and 6 which are essential for a healthy heart.",
+    "sellingUnit": "1Kg",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-204792-6009710390146.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "84.99",
+    "promoPrice": "84.99",
+    "productUId": 9075,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Woodlands Dairy",
+    "label": "First Choice Salted Butter 500g",
+    "description": "First Choice Butter is not only delicious but naturally good for you and manufactured in the traditional way to guarantee quality and taste.",
+    "sellingUnit": "500g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-254063-6007251000128.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "84.99",
+    "promoPrice": "84.99",
+    "productUId": 9054,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Mooiriver",
+    "label": "Mooiriver Choice Butter 500g",
+    "description": "Clover Mooi Rivier Salted butter contains no artificial colouring or flavouring. It is made with real dairy with no additives and made from farm fresh pasteurised cream.",
+    "sellingUnit": "500g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-221437-6001299810121.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "39.99",
+    "promoPrice": "39.99",
+    "productUId": 26304,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "OKJA",
+    "label": "Okja Original Oat Milk 1L",
+    "description": "Try it, it is made with your health in mind.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-849521-5600777830005.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "89.99",
+    "promoPrice": "89.99",
+    "productUId": 7402,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Butro Butter Spread 500g",
+    "description": "If you like the taste of butter and want something that spreads easily, Clover Butro is the answer. Clover Butro contains sunflower oil to give you an easy-spreading softness, so you use less and gain on taste. Clover Butro is manufactured from a blend of cream derived from pure bovine milk and vege",
+    "sellingUnit": "500g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-164880-6001299810312.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "21.00",
+    "promoPrice": "21.00",
+    "productUId": 4219,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover UHT Full Cream Milk 1L",
+    "description": "The quality and goodness of Clover Long Life Full Cream milk is kept fresh for longer due to the Long Life process - Ultra High Temperature- and special packaging that allows the product to be stored unopened for a period of 6 months without refrigeration.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-538315-6001299015274.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "9.99",
+    "promoPrice": "9.99",
+    "productUId": 33536,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "First Choice",
+    "label": "First Choice Strawberry Flavored Milk 250ml",
+    "description": "It is full flavoured milk with no added colourants that keeps up with your busy lifestyle.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Dairy Drink",
+    "catalogueMenuUId": 472,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-534132-6007251001774.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      },
+      {
+        "5": "VITALITY"
+      }
+    ],
+    "price": "27.99",
+    "promoPrice": "27.99",
+    "productUId": 7658,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Live Well Free Range Jumbo Eggs 6s",
+    "description": "Our locally produced Live Well Free Range Eggs come from chickens that eat a balanced diet and are free to roam outside. Plus, they are an easy way to boost your and your familys protein intake.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Eggs",
+    "catalogueMenuUId": 414,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-131408-6001007064518.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "64.99",
+    "promoPrice": "64.99",
+    "productUId": 9198,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Mozzarella Cheese 300g",
+    "description": "The taste of our firm Medium Fat Mozzarella cheese is very mild and slightly salty. Because it melts easily, its ideal for lasagne or pizza.",
+    "sellingUnit": "300g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cheese",
+    "catalogueMenuUId": 874,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-434160-6001007213916.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "38.99",
+    "promoPrice": "38.99",
+    "productUId": 31491,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Buttanutt",
+    "label": "ButtaNutt Almond Milk 1L",
+    "description": "A lovable, creamy South African nut milk. Made with simple ingredients: gluten-free oats and the best quality, locally sourced almonds. Enjoy this beauty in soothing golden lattes or velvety flat whites. Pour over granola, use in smoothies or drink straight up.\n",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-869537-6009900424378.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "72.99",
+    "promoPrice": "72.99",
+    "productUId": 20688,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Blue Band",
+    "label": "Rama Original 60% Fat Margarine Spread 1kg",
+    "description": "Great taste, versatility and heaps of vitamins and essential fatty acids, these are what make Rama Original a family favourite.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-343957-6009710390290.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "37.99",
+    "promoPrice": "37.99",
+    "productUId": 8340,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Low Fat Ultra Pasteurized Milk 2L",
+    "description": "Never run out of milk again thanks to our ultra-pasteurised Low Fat Milk that stays fresh for up to 35 days unopened.",
+    "sellingUnit": "2L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-561817-6001007275266.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "29.99",
+    "promoPrice": "29.99",
+    "productUId": 8885,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Rieses Food Imports",
+    "label": "Jemz Coconut Milk 400ml",
+    "description": "Jemz Coconut Milk is a milky white product that is made from the meat of a mature coconut. It is used in many Asian dishes, as well as in some drinks.\n",
+    "sellingUnit": "400ml",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Canned Food",
+    "catalogueMenuUId": 406,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-206643-6004791001394.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "9.99",
+    "promoPrice": "9.99",
+    "productUId": 33535,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "First Choice",
+    "label": "First Choice Vanilla Flavored Milk 250ml",
+    "description": "It is full flavoured milk with no added colourants that keeps up with your busy lifestyle.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Dairy Drink",
+    "catalogueMenuUId": 472,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-760583-6007251003594.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 9282,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Traditional Plain Feta Cheese 200g",
+    "description": "Clovers Cheese range offers good quality and value for money and is ideal to use in lunch boxes, on sandwiches, toasted sandwiches or in delicious salads and meals.",
+    "sellingUnit": "200g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cottage, Feta And Cream Cheese",
+    "catalogueMenuUId": 878,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-174148-6001299695216.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 21065,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Medium Fat Mixed Fruit & Custard Yoghurt 1kg",
+    "description": "Parmalats Medium Fat Fruit Yoghurt range combines the best of smooth creamy yoghurt and real juicy fruit to create a delicious and nutritious snack or breakfast treat.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Yoghurt",
+    "catalogueMenuUId": 499,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-133991-6001049083324.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "34.99",
+    "promoPrice": "34.99",
+    "productUId": 8322,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Laughing Cow",
+    "label": "The Laughing Cow Plain Cheese Wedges 120g",
+    "description": "Feta cheese.Our creamy cheddar never disappoints. Its reliably smooth, delightfully tangy taste hits the spot when you are looking for that do-it-all snack.",
+    "sellingUnit": "120g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cheese",
+    "catalogueMenuUId": 874,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-377663-3073780896375.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "49.99",
+    "promoPrice": "49.99",
+    "productUId": 15325,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Blue Diamond",
+    "label": "Almond Breeze Barista Blend Almond Milk 1L",
+    "description": "Our delicious unsweetened Almond Breeze Barista Blend, created specially for coffee lovers, baristas and coffee shops, complements the taste of coffee and produces a rich, creamy froth to sit atop lattes, cappuccinos and flat whites. Barista Blend not only delivers a great taste but many important health benefits.",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/front-803008-41570112632.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "22.49",
+    "promoPrice": "22.49",
+    "productUId": 22484,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Lactalis SA",
+    "label": "Parmalat Strawberry & Mixed Berry Medium Fat Yoghurt 6 Pack",
+    "description": "Rich and creamy with a velvety texture with the flavour of strawberry and mixed berry.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Yoghurt",
+    "catalogueMenuUId": 499,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-853906-6001049052788.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "123.99",
+    "promoPrice": "123.99",
+    "productUId": 17349,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover Ultra UHT Long Life Full Cream Milk 6 x 1L ",
+    "description": "The quality and goodness of Ultra Long Life Full Cream milk is kept fresh for longer due to the Long Life process and special packaging that allows the product to be stored unopened for a period of 6 months without refrigeration.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-121439-6001299029011.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "Y",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "21.00",
+    "promoPrice": "21.00",
+    "productUId": 4221,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Clover",
+    "label": "Clover UHT Low Fat Milk 1L",
+    "description": "Clover Long Life Low Fat Milk provides convenience to the whole family as well as individuals who want to restrict their fat intake, only containing 60% of the fat of full cream milk. The quality and goodness is kept fresh for longer due to the Long Life process (Ultra High Temperature) and special ",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-538313-6001299015281.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "20.99",
+    "promoPrice": "20.99",
+    "productUId": 8630,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PARMALAT",
+    "label": "Parmalat Everfresh UHT Full Cream Milk 1L",
+    "description": "Expect more from your milk with Parmalat Everfresh.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-190093-6002100014004.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "279.99",
+    "promoPrice": "279.99",
+    "productUId": 13848,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Nestle Lactokid 4 Milk Powder Drink 1.8kg",
+    "description": "Growing children need to maintain a healthy gut. Good bacteria in their gut help reduce constipation and other tummy problems, which makes for a happy tummy.",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baby Formula",
+    "catalogueMenuUId": 398,
+    "categoryLabel": "Baby",
+    "categoryMenuUid": 395,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-738722-6009188002664.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "55.99",
+    "promoPrice": "55.99",
+    "productUId": 22710,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "RCL Foods Consumer",
+    "label": "Ouma Condensed Milk Flavoured Rusks 500g",
+    "description": "South Africas most famous rusk baker.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Biscuits and Rusks",
+    "catalogueMenuUId": 465,
+    "categoryLabel": "Snack Cupboard",
+    "categoryMenuUid": 206,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/front-544912-6001069600846.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "26.99",
+    "promoPrice": "23.99",
+    "productUId": 7675,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Fresh Cream 250ml",
+    "description": "Bring a little luxury to your home cooking with our Fresh Cream that is ideal for pouring, whipping or adding to your favourite dishes.",
+    "sellingUnit": "250ml",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cream",
+    "catalogueMenuUId": 469,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-225456-6001007091743.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "149.99",
+    "promoPrice": "149.99",
+    "productUId": 20077,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Full Fat Hard Cheddar Cheese 850g",
+    "description": "The Parmalat Fixed Weight Cheese range is made from first grade quality cheese that is full of flavour. A rich flavoured, full fat, hard cheese.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cheese",
+    "catalogueMenuUId": 874,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-540255-6001049023405.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "32.99",
+    "promoPrice": "32.99",
+    "productUId": 8645,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Live Well UHT Low Fat Soya Milk 1L",
+    "description": "Our Live Well Sweetened Soya Milk is a delicious, dairy-free alternative to cows milk. Enjoy it with your cereal and in coffee, smoothies and baked goods. Its the perfect addition to your plant-based diet.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-120868-6001007318505.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "29.99",
+    "promoPrice": "29.99",
+    "productUId": 29421,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Mayfair",
+    "label": "Mayfair Coconut Milk 400ml",
+    "description": "Coconut milk is the liquid that comes from the grated meat of a brown coconut. The colour and rich taste of coconut milk can be attributed to the high oil content. Most of the fat is saturated fat. Coconut milk is a very popular food ingredient used in Southeast Asia, South Asia, Southern China and the Caribbean.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Canned Food",
+    "catalogueMenuUId": 406,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/USERUID111346_USEQ0.52261900 1644999560_6001097501801.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "37.99",
+    "promoPrice": "37.99",
+    "productUId": 4034,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Mondelez South Africa (Pty) Ltd",
+    "label": "Cadbury Slab Dairy Milk 150g",
+    "description": "An instant classic from the moment it was made, Cadbury Milk Chocolate is made from the finest cocoa beans and an unbeatable glass and a half of milk to give it the delicious taste you crave.",
+    "sellingUnit": "150g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Chocolate",
+    "catalogueMenuUId": 409,
+    "categoryLabel": "Snack Cupboard",
+    "categoryMenuUid": 206,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-626252-6001065601243.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "37.99",
+    "promoPrice": "37.99",
+    "productUId": 9484,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Nestle Ideal Evaporated Milk 380g",
+    "description": "Use Nestle ideal evaporated milk in cooking and baking to add a delicious creaminess to your favourite sweet and savoury dishes!",
+    "sellingUnit": "380g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baking and Flour",
+    "catalogueMenuUId": 463,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-147515-6001068312504.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "8.99",
+    "promoPrice": "8.99",
+    "productUId": 34333,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Woodlands Dairy",
+    "label": "First Choice Full Cream Milk 250ml",
+    "description": "When it comes to milk, health comes first. First Choice milk is commercially sterile, meaning its free from pathogens and microorganisms. Its their guarantee that your First Choice UHT milk is always safe and tastes great.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-912215-6007251001989.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 8638,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Blue Diamond",
+    "label": "Almond Breeze Original Sweetened Milk 1L",
+    "description": "Sweetened Milk",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-679917-0041570112618.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "67.99",
+    "promoPrice": "67.99",
+    "productUId": 9186,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "President Traditional Feta Cheese 400g",
+    "description": "Feta is an aged, crumbly and satisfyingly salty cheese perfect for salad. It has all the delicious properties of regular feta, but with 26% less fat.",
+    "sellingUnit": "400g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cottage, Feta And Cream Cheese",
+    "catalogueMenuUId": 878,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-248679-6001049118231.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      },
+      {
+        "5": "VITALITY"
+      }
+    ],
+    "price": "39.99",
+    "promoPrice": "29.99",
+    "productUId": 8641,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "GOODHOPE",
+    "label": "Good Hope Regular Unsweetened Soy Milk 1L",
+    "description": "An aseptically packed, unsweetened, calcium enriched soy milk made from whole soybeans",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-619026-6007359003922.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "38.99",
+    "promoPrice": "38.99",
+    "productUId": 14904,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Gold Cross Sweetened Condensed Milk 385g",
+    "description": "Serves as an essential ingredient for adding that creamy, rich texture and unique taste to your tea, and is also versatile for baking delicious goodies such as cheesecake and tarts..",
+    "sellingUnit": "1",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baking and Flour",
+    "catalogueMenuUId": 463,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-134323-6001068312108.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "19.99",
+    "promoPrice": "19.99",
+    "productUId": 4033,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Mondelez South Africa (Pty) Ltd",
+    "label": "Cadbury Dairy Milk Choc Slab 80g",
+    "description": "An instant classic from the moment it was made, Cadbury Milk Chocolate is made from the finest cocoa beans and an unbeatable glass and a half of milk to give it the delicious taste you crave.",
+    "sellingUnit": "80g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Chocolate",
+    "catalogueMenuUId": 409,
+    "categoryLabel": "Snack Cupboard",
+    "categoryMenuUid": 206,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-630914-6001065601069.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "51.99",
+    "promoPrice": "51.99",
+    "productUId": 9321,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Upfield",
+    "label": "Flora Regular Medium Fat Margarine Spread 500g",
+    "description": "100% of oils in Flora are from plants. Flora contains locally sourced sunflower oil and is delicious on bread and in cooking.",
+    "sellingUnit": "500g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Butter and Margarine",
+    "catalogueMenuUId": 405,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-348448-6009710390306.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "17.99",
+    "promoPrice": "17.99",
+    "productUId": 9077,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Fair Cape Dairies (Pty) Ltd",
+    "label": "Fair Cape Ecofresh UHT Low Fat Milk 1L",
+    "description": "Fair Cape low fat long life milk keeps you going and lasts longer. Superior quality low fat long life milk is packed with nutrients with extra staying power.Â Low in fat, high in taste, uncompromising in quality.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-702470-6007414004383.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "149.99",
+    "promoPrice": "149.99",
+    "productUId": 20076,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat Full Fat Hard Mature Cheddar Cheese 850g",
+    "description": "A rich and nutty flavoured, full fat hard cheese.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cheese",
+    "catalogueMenuUId": 874,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-794089-6001049014632.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "34.99",
+    "promoPrice": "34.99",
+    "productUId": 8642,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "GOODHOPE",
+    "label": "Good Hope Milk Alternative Soy Milk 1L",
+    "description": "An aseptically packed, unflavoured, delicately sweetened, vitamin & mineral fortified soy milk made from whole soybeans.",
+    "sellingUnit": "1L",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-355887-6007359002727.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      },
+      {
+        "5": "VITALITY"
+      }
+    ],
+    "price": "68.99",
+    "promoPrice": "68.99",
+    "productUId": 9036,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PNP",
+    "label": "PnP Live Well Free Range Large Eggs 18s",
+    "description": "Our locally produced Live Well Free Range Eggs come from chickens that eat a balanced diet and are free to roam outside. Plus, they are an easy way to boost your and your familys protein intake.",
+    "sellingUnit": "18s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Eggs",
+    "catalogueMenuUId": 414,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-250026-6001007303600.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "25.99",
+    "promoPrice": "25.99",
+    "productUId": 10775,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Rieses Food Imports (Pty) Ltd",
+    "label": "Jemz Coconut Milk Light 400ml",
+    "description": "Jemz Coconut Milk is a milky white product that is made from the meat of a mature coconut. It is used in many Asian dishes,as well as in some drinks.",
+    "sellingUnit": "400ml",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Canned Food",
+    "catalogueMenuUId": 406,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-377909-6004791001714.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "38.99",
+    "promoPrice": "38.99",
+    "productUId": 26314,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "BUTTANUTT",
+    "label": "ButtaNutt Oat Milk 1L",
+    "description": "A delightfully delicious and creamy South African oat milk. Made with simple ingredients, this malty milk is sure to become a daily staple.  Enjoy in soothing golden lattes or velvety flat whites. Pour over granola, use in smoothies or drink straight up.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-861954-6009900424385.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "37.99",
+    "promoPrice": "37.99",
+    "productUId": 9397,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Nestle",
+    "label": "Nestle Ideal Low Fat Evaporated Milk 380g",
+    "description": "Use Nestle ideal evaporated milk in cooking and baking - it will add a delicious creaminess to your favourite sweet and savoury dishes!",
+    "sellingUnit": "380g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Baking and Flour",
+    "catalogueMenuUId": 463,
+    "categoryLabel": "Food Cupboard",
+    "categoryMenuUid": 391,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-186226-6001068312603.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 33507,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Almond Breeze",
+    "label": "Almond Breeze Unsweetened Vanilla Milk 1L",
+    "description": "Unsweetened, nutty and packed with calcium and vitamins, Blue Diamond Almond Vanilla Flavour Almond Breeze Milk is a delicious, vegan friendly, long life milk substitute.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-812609-041570122129.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 26301,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "ALMOND BREEZE",
+    "label": "Almond Breeze Milk Chocolate 1L",
+    "description": "Flavoured almond milk.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-812608-0041570112960.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 33508,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Almond Breeze",
+    "label": "Almond Breeze Vanilla Milk 1L",
+    "description": "Deliciously creamy and perfect for vegans, this sweetened Blue Diamond Almonds Vanilla Flavoured Almond Milk complements beverages, sauces and cereals.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-812610-041570122105.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "26.99",
+    "promoPrice": "26.99",
+    "productUId": 8762,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "PnP",
+    "label": "PnP Sour Cream 250ml",
+    "description": "Enjoy our rich, tangy Sour Cream as a topping for baked potatoes or nachos, or even in baked goods.",
+    "sellingUnit": "250ml",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Cream",
+    "catalogueMenuUId": 469,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-193768-6001007091750.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "17.49",
+    "promoPrice": "17.49",
+    "productUId": 17508,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Tiger Brands",
+    "label": "Beacon Pure Milk Chocolate 80g",
+    "description": "Ever indulgent, always irresistible, Beacon Pure Milk Chocolate Slab has always been about giving into temptation. So dip into one of these tantalising tales and satisfy your desires!\n",
+    "sellingUnit": "80g",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Buy and Win with Beacon",
+    "catalogueMenuUId": 2284,
+    "categoryLabel": "Snack Cupboard",
+    "categoryMenuUid": 206,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-648584-6001120620639.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "129.99",
+    "promoPrice": "129.99",
+    "productUId": 17348,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Parmalat",
+    "label": "Parmalat UHT EasyGest Full Cream 6 x 1L",
+    "description": "Expect more from your milk with Parmalat EasyGest. The lactose-free milk, available in full cream and low fat, packed with all the calcium and goodness of dairy.",
+    "sellingUnit": "6s",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Milk",
+    "catalogueMenuUId": 425,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-560109-6001049062718.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "Y",
+    "isCombo": "N"
+  },
+  {
+    "badges": [
+      {
+        "1": "PROMO"
+      }
+    ],
+    "price": "41.99",
+    "promoPrice": "41.99",
+    "productUId": 31490,
+    "maxOrderQuantity": null,
+    "stapleProduct": "N",
+    "manufacturer": "Almond Breeze",
+    "label": "Almond Breeze Almond and Oat Milk 1L",
+    "description": "The natural sweetness of oats combined with the almonds is deliciously good. The mild nutty taste and creamy texture makes it perfect for breakfast, smoothies, coffee and more.",
+    "sellingUnit": "",
+    "showSellingUnit": "N",
+    "catalogueLabel": "Plant-Based",
+    "catalogueMenuUId": 1379,
+    "categoryLabel": "Milk, Dairy and Eggs",
+    "categoryMenuUid": 388,
+    "icon": "https://bottles.bottlesapp.co.za/archives/productImages/Straight_on-876134-041570146200.jpg",
+    "top_picks": "N",
+    "licenced_product": "N",
+    "displayLicencedProduct": "Y",
+    "oos": "N",
+    "isCombo": "N"
+  }
+]
