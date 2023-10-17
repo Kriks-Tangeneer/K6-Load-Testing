@@ -11,3 +11,5 @@ https://k6.io/docs/get-started/running-k6/
 https://k6.io/docs/examples/tutorials/get-started-with-k6/
 
 <a href="https://docs.google.com/spreadsheets/d/11xLfUirPN2ORsaXowEQyLdUNFn0yDI5_Ip6CEaK3Ek0/edit#gid=1118872623"><h4> Load Testing Template - Google Spreadsheet</h4></a>
+
+![image](https://github.com/Kriks-Tangeneer/K6-Load-Testing/assets/115210010/a5db9020-066c-4ee6-bd77-171a601ff710)
